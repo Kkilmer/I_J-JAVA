@@ -8,13 +8,12 @@ public class Main {
         Pessoa p = new Pessoa();
 
         System.out.println("Qual seu nome?");
-        p.nome = sc.next();
+        p.setNome(sc.next());
         System.out.println("Qual sua idade?");
-        p.idade = sc.nextInt();
+        p.setIdade(sc.nextInt());
 
-        System.out.println("antiga: "+ p.idade);
-        p.niver();
-        System.out.println("atual: "+ p.idade);
+        System.out.println("A idade é: "+ p.getIdade());
+        System.out.println("O seu nome é: " + p.getNome());
 
     }
 }
