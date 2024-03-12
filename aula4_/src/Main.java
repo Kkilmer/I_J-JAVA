@@ -11,7 +11,8 @@ public class Main {
         g.setNome(sc.next());
         System.out.println("Digite o departamento do Gerente: ");
         g.setDepartametno(sc.next());
-
+        g.calcularBonus();
+        System.out.println("Valor do Bonus"+ g.getSalario());
 
         Diretor d = new Diretor();
         System.out.println("Digite o nome do Diretor: ");
