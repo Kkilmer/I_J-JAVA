@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/att1/Aluno.iml" filepath="$PROJECT_DIR$/att1/Aluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/att4/Aluno_nota.iml" filepath="$PROJECT_DIR$/att4/Aluno_nota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/att3/Calculadora.iml" filepath="$PROJECT_DIR$/att3/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/att2/Funcionario.iml" filepath="$PROJECT_DIR$/att2/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/att5/IMC.iml" filepath="$PROJECT_DIR$/att5/IMC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/I_J-JAVA.iml" filepath="$PROJECT_DIR$/.idea/I_J-JAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula4/aula4.iml" filepath="$PROJECT_DIR$/aula4/aula4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula4_/exercicio1.iml" filepath="$PROJECT_DIR$/aula4_/exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herança/aula4.iml" filepath="$PROJECT_DIR$/herança/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/const.henr6/const.henr6.iml" filepath="$PROJECT_DIR$/const.henr6/const.henr6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/att6/contrutor.iml" filepath="$PROJECT_DIR$/att6/contrutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herança.al4/exercicio1.iml" filepath="$PROJECT_DIR$/herança.al4/exercicio1.iml" />
     </modules>
   </component>
 </project>
