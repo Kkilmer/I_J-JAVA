@@ -1,3 +1,5 @@
+package ex_2;
+
 import java.util.Scanner;
 public class mainaluno {
     public static void main(String[] args) {
@@ -18,10 +20,10 @@ public class mainaluno {
         a.notas();
         System.out.println("Sua media é " + a.media);
 
-        if (a.media >= 7) {
-            System.out.println("Aluno aprovado!");
+        if (a.media >= 70) {
+            System.out.println("ex_2.Aluno aprovado!");
         }else{
-            System.out.println("Aluno reprovado!");
+            System.out.println("ex_2.Aluno reprovado!");
         }
 
 
