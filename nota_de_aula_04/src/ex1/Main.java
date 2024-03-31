@@ -1,4 +1,4 @@
-package nota_de_aula;
+package ex1;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args){

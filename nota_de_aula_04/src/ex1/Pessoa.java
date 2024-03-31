@@ -1,4 +1,4 @@
-package nota_de_aula;
+package ex1;
 
 public class Pessoa {
     protected String nome;

@@ -1,4 +1,6 @@
-public class Diretor extends Funcionario{
+package ex1;
+
+public class Diretor extends Funcionario {
     private int acoes;
 
     public int getAcoes() {

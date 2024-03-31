@@ -3,7 +3,6 @@ package ex_3;
 import java.util.Scanner;
 public class maincalc {
     public static void main(String[] args) {
-        System.out.println();
 
     Calculadora c = new Calculadora();
     Scanner sc = new Scanner(System.in);

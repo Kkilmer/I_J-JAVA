@@ -1,3 +1,5 @@
+package ex1;
+
 public class Funcionario {
     protected String nome;
     protected double salario;
