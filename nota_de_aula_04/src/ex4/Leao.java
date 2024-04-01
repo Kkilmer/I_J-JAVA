@@ -18,7 +18,7 @@ public class Leao extends Animal{
     }
 
     public void exibirInformacoes() {
-        System.out.println("Classe:" +getClasse());
+        System.out.println("Classe:"+getClasse());
         System.out.println("Locomoção:" + locomoção);
         System.out.println("Tipo de pelo:" + pelo);
     }
