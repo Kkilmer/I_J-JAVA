@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Correr {
+public interface Correr {
+    public void correr();
 }

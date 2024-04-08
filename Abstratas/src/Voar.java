@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Voar {
+public interface Voar {
+    public void voando();
 }
