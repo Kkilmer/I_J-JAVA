@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Gato extends Animal  implements Correr{
     Scanner sc = new Scanner(System.in);
     public Gato(String nome, int idade){
-        super(nome, idade);
+        super(nome, idade, tipo);
     }
     @Override
     public void emitirSom(){

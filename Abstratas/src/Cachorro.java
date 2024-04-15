@@ -1,10 +1,9 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class Cachorro extends Animal implements Correr{
 
     Scanner sc = new Scanner(System.in);
     public Cachorro(String nome, int idade){
-        super(nome, idade);
+        super(nome, idade, tipo);
     }
     @Override
     public void emitirSom(){

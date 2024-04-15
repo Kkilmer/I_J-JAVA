@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Passaro extends Animal implements Voar{
     Scanner sc = new Scanner(System.in);
     public Passaro(String nome, int idade){
-        super(nome, idade);
+        super(nome, idade, tipo);
     }
     @Override
     public void emitirSom(){
