@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Cachorro extends Animal implements Correr{
 
     Scanner sc = new Scanner(System.in);
-    public Cachorro(String nome, int idade){
+    public Cachorro(String nome, int idade, TipoAnimal tipo){
         super(nome, idade, tipo);
     }
     @Override

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Passaro extends Animal implements Voar{
     Scanner sc = new Scanner(System.in);
-    public Passaro(String nome, int idade){
+    public Passaro(String nome, int idade, TipoAnimal tipo){
         super(nome, idade, tipo);
     }
     @Override
