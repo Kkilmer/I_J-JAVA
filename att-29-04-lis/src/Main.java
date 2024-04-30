@@ -34,6 +34,5 @@ public class Main {
         System.out.println("Digite 'Novo' para fazer um novo cadastro");
         r = sc.next();
         }while (r.equalsIgnoreCase("Novo"));
-
     }
 }
